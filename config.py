@@ -4,7 +4,7 @@ if HEROKU:
     from os import environ
 
     bot_token = "5581650746:AAFk8ZB91GZZw4_uCFJVcDPjtS1FZpPltW0"
-    ARQ_API_KEY = "environ[PLUROS-OYFPZG-AVPUCL-TNODRH-ARQ"
+    ARQ_API_KEY = "PLUROS-OYFPZG-AVPUCL-TNODRH-ARQ"
     LANGUAGE = "bn"
 
 # NOTE Fill this if you are not deploying on heroku.
